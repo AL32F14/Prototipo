@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+#icon {
+	border-radius: 70%;
+}
+
+#bgimg1 {
+	background-image:url(../recursos/imagenes/espanol.jpg);
+}
+
+#bgimg2 {
+	background-image:url(../recursos/imagenes/mixteco.png);
+}
+
+#titulo {
+	/*background-image:url(../recursos/imagenes/espanol.jpg);*/
+	color:#FFF;
+}
+#ejemplo {
+	/*background-color:#;*/
+	color:#FFF;
+}
+#ejemplo1 {
+	background-color:#F00;
+	color:#FFF;
+}
+#ejemplo2 {
+	background-color:#F00;
+	color:#FFF;
+}
